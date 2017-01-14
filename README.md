@@ -61,10 +61,10 @@ Average loop count: 437
 * Average loop count: 169
 
 + Evolution method: mutation chance = 15%, percent of parent picked: 50% (4/8 queens).
-* Average loop count: 99 -> __best solution__
+* Average loop count: 99
 
 + Evolution method: mutation chance = 0%, percent of parent picked: 50% (4/8 queens).
-* Average loop count: 87 -> best solution
+* Average loop count: 87-> __best solution__
 
 + Evolution method: mutation chance = 15%, percent of parent picked: 37.5% (3/8 queens).
 * Average loop count: 166
