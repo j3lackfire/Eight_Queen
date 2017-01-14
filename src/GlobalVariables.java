@@ -4,7 +4,7 @@
 public class GlobalVariables {
 
     public static int boardSize = 8;
-    public static int mutationChance = 80; //80% chance there will be a mutation in every evolution.
+    public static int mutationChance = 15; //15% chance there will be a mutation in every evolution.
     public static int maxFinessEvaluation = 10000;
     public static float percentOfParentPicked = 0.625f; //5 out of 8
 
