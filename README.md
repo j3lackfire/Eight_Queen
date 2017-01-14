@@ -45,26 +45,26 @@ Average loop count: 437
 
 ------------
 
-Evolution method: mutation chance = 15%, percent of parent picked: 87.5% (7/8 queens).
-Average loop count: 3027 -> Worst solution.
++ Evolution method: mutation chance = 15%, percent of parent picked: 87.5% (7/8 queens).
++ Average loop count: 3027 -> Worst solution.
 
-Evolution method: mutation chance = 80%, percent of parent picked: 62.5% (5/8 queens).
-Average loop count: 194
++ Evolution method: mutation chance = 80%, percent of parent picked: 62.5% (5/8 queens).
++ Average loop count: 194
 
-Evolution method: mutation chance = 20%, percent of parent picked: 62.5% (5/8 queens).
-Average loop count: 114
++ Evolution method: mutation chance = 20%, percent of parent picked: 62.5% (5/8 queens).
++ Average loop count: 114
 
-Evolution method: mutation chance = 0%, percent of parent picked: 62.5% (5/8 queens).
-Average loop count: infinity -> __can not find the correct solution.__
++ Evolution method: mutation chance = 0%, percent of parent picked: 62.5% (5/8 queens).
++ Average loop count: infinity -> __can not find the correct solution.__
 
-Evolution method: mutation chance = 70%, percent of parent picked: 50% (4/8 queens).
-Average loop count: 169
++ Evolution method: mutation chance = 70%, percent of parent picked: 50% (4/8 queens).
++ Average loop count: 169
 
-Evolution method: mutation chance = 15%, percent of parent picked: 50% (4/8 queens).
-Average loop count: 99 -> __best solution__
++ Evolution method: mutation chance = 15%, percent of parent picked: 50% (4/8 queens).
++ Average loop count: 99 -> __best solution__
 
-Evolution method: mutation chance = 0%, percent of parent picked: 50% (4/8 queens).
-Average loop count: 87 -> best solution
++ Evolution method: mutation chance = 0%, percent of parent picked: 50% (4/8 queens).
++ Average loop count: 87 -> best solution
 
-Evolution method: mutation chance = 15%, percent of parent picked: 37.5% (3/8 queens).
-Average loop count: 166
++ Evolution method: mutation chance = 15%, percent of parent picked: 37.5% (3/8 queens).
++ Average loop count: 166
