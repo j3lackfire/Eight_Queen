@@ -1,7 +1,7 @@
 # Eight_Queen
 A solution to the eight queen problem using evolutional algorithm
 
-STEPS
+# STEPS
 
 1. Generate two boards with randomly placed queen such that each queen have different X and Y coordinate.
 
